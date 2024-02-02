@@ -526,9 +526,6 @@
     "areYouSureReset": {
         "message": "Are you sure you would like to reset this?"
     },
-    "mobileUpdateInfo": {
-        "message": "m.youtube.com is now supported"
-    },
     "exportOptions": {
         "message": "Import/Export All Options"
     },

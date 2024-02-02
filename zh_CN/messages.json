@@ -522,9 +522,6 @@
     "areYouSureReset": {
         "message": "您确定要重置它吗？"
     },
-    "mobileUpdateInfo": {
-        "message": "现已支持 m.youtube.com"
-    },
     "exportOptions": {
         "message": "导入/导出所有选项"
     },
