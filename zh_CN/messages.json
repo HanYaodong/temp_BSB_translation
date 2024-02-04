@@ -1,20 +1,20 @@
 {
     "fullName": {
-        "message": "SponsorBlock for YouTube - 跳过赞助商广告",
+        "message": "哔哩哔哩广告跳过助手",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "跳过 YouTube 视频中的赞助广告、订阅提醒等片段。标记视频中的赞助广告来节约大家的时间。",
+        "message": "恰饭？桌子都给你掀了(/= _ =)/~┴┴ 跳过B站视频中的赞助广告、订阅提醒等片段。标记视频中的赞助广告来节约大家的时间。",
         "description": "Description of the extension."
     },
     "400": {
-        "message": "服务器说此请求无效"
+        "message": "此请求无效"
     },
     "409": {
-        "message": "它之前已经被提交过了"
+        "message": "已经提交过了"
     },
     "channelWhitelisted": {
-        "message": "频道已加入白名单！"
+        "message": "UP主已加入白名单！"
     },
     "Segment": {
         "message": "片段"
