@@ -752,21 +752,6 @@
     "category_poi_highlight_guideline3": {
         "message": "可以跳到标题或封面"
     },
-    "category_chapter": {
-        "message": "章节"
-    },
-    "category_chapter_description": {
-        "message": "自定义命名章节描述了视频的主要部分。"
-    },
-    "category_chapter_guideline1": {
-        "message": "不要提到赞助商品牌名称"
-    },
-    "category_chapter_guideline2": {
-        "message": "在一般普通的环节使用较长的章节"
-    },
-    "category_chapter_guideline3": {
-        "message": "小章节可以放在大章节内"
-    },
     "category_livestream_messages": {
         "message": "直播：捐赠/消息阅读"
     },
