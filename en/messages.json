@@ -815,23 +815,20 @@
         "message": "手动隐藏"
     },
     "channelDataNotFound": {
-        "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at.",
-        "message": "未检测到频道ID。如果您正在使用嵌入式视频播放器，请转到Bilibili网站观看。也可能是Bilibili更改了页面布局，如果您认为是此问题，请在此评论："
+        "message": "未检测到UP主ID。如果您正在使用嵌入式视频播放器，请到Bilibili网站观看。也可能是B站更改了页面布局，如果您认为是此问题，请在此评论：",
+        "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at."
     },
     "invidiousPermissionRefresh": {
         "message": "浏览器已撤销在 Invidious 及其他第三方网站运行所需的权限。请点击下方按钮重新激活权限。"
     },
     "acceptPermission": {
-        "message": "接受权限"
+        "message": "权限接受"
     },
     "permissionRequestSuccess": {
         "message": "权限请求成功！"
     },
     "permissionRequestFailed": {
-        "message": "权限请求失败，您是否点击拒绝？"
-    },
-    "adblockerIssueWhitelist": {
-        "message": "如果您无法解决这个问题，请禁用“跳过前强制进行频道检查”选项，因为 SponsorBlock 无法获得此视频的频道信息"
+        "message": "权限请求失败，您是否点击了拒绝？"
     },
     "forceChannelCheck": {
         "message": "跳过前强制进行频道检查"
@@ -841,12 +838,6 @@
     },
     "forceChannelCheckPopup": {
         "message": "请考虑启用“跳过前强制进行频道检查”"
-    },
-    "downvoteDescription": {
-        "message": "不正确/错误的时间"
-    },
-    "incorrectVote": {
-        "message": "不正确"
     },
     "harmfulVote": {
         "message": "有害的",

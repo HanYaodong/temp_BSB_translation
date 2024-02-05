@@ -815,8 +815,8 @@
         "message": "手动隐藏"
     },
     "channelDataNotFound": {
-        "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at.",
-        "message": "未检测到频道ID。如果您正在使用嵌入式视频播放器，请转到Bilibili网站观看。也可能是Bilibili更改了页面布局，如果您认为是此问题，请在此评论："
+        "message": "未检测到UP主ID。如果您正在使用嵌入式视频播放器，请到Bilibili网站观看。也可能是B站更改了页面布局，如果您认为是此问题，请在此评论：",
+        "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at."
     },
     "invidiousPermissionRefresh": {
         "message": "浏览器已撤销在 Invidious 及其他第三方网站运行所需的权限。请点击下方按钮重新激活权限。"
