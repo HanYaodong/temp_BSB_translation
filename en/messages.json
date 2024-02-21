@@ -313,6 +313,14 @@
         "message": "关闭跳过通知",
         "description": "Keybind label"
     },
+    "nextFrameKeybind": {
+        "message": "视频下一帧",
+        "description": "Keybind label"
+    },
+    "previousFrameKeybind": {
+        "message": "视频前一帧",
+        "description": "Keybind label"
+    },
     "keybindDescription": {
         "message": "请按下想绑定的按键。如果您想使用组合快捷键，请勾选左侧的选项。"
     },
