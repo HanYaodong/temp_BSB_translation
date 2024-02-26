@@ -1,6 +1,6 @@
 {
     "fullName": {
-        "message": "哔哩哔哩广告跳过助手",
+        "message": "B站广告跳过助手",
         "description": "Name of the extension."
     },
     "Description": {
@@ -25,14 +25,8 @@
     "SegmentsCap": {
         "message": "片段"
     },
-    "Chapters": {
-        "message": "章节"
-    },
-    "showSegmentNameInChapterBar": {
-        "message": "在视频时间旁显示当前片段"
-    },
     "upvoteButtonInfo": {
-        "message": "为这个片段点赞"
+        "message": "给这个片段点赞"
     },
     "reportButtonTitle": {
         "message": "反馈"
@@ -50,13 +44,13 @@
         "message": "不再显示"
     },
     "hitGoBack": {
-        "message": "点击取消跳过以回到您原来的样子。"
+        "message": "点击取消跳过回到跳过前。"
     },
     "unskip": {
         "message": "取消跳过"
     },
     "reskip": {
-        "message": "继续跳过"
+        "message": "重新跳过"
     },
     "unmute": {
         "message": "取消静音"
@@ -68,13 +62,13 @@
         "message": "计时器已停止"
     },
     "confirmMSG": {
-        "message": "要编辑或删除个别值，请点击信息按钮，或点击右上角的扩展图标打开扩展弹窗。"
+        "message": "要编辑或删除个别值，请点击信息按钮，或点击浏览器右上角的扩展图标打开扩展弹窗。"
     },
     "clearThis": {
         "message": "您确定要清空它吗？\n\n"
     },
     "Unknown": {
-        "message": "提交您的赞助商广告时间时出错。请稍后再试。"
+        "message": "提交您的片段时间时出错。请稍后再试。"
     },
     "sponsorFound": {
         "message": "此视频在数据库中有可跳过片段！"
@@ -116,7 +110,7 @@
         "message": "清除片段"
     },
     "openPopup": {
-        "message": "打开 SponsorBlock 弹窗"
+        "message": "打开广告助手弹窗"
     },
     "closePopup": {
         "message": "关闭弹窗"
@@ -155,7 +149,7 @@
         "message": "提交"
     },
     "submissionEditHint": {
-        "message": "片段编辑将在您单击提交后显示",
+        "message": "片段编辑将在您点击提交后显示",
         "description": "Appears in the popup to inform them that editing has been moved to the video player."
     },
     "popupHint": {
@@ -314,27 +308,27 @@
         "description": "Keybind label"
     },
     "nextFrameKeybind": {
-        "message": "视频下一帧",
+        "message": "（编辑提交弹窗）视频下一帧",
         "description": "Keybind label"
     },
     "previousFrameKeybind": {
-        "message": "视频前一帧",
+        "message": "编辑提交弹窗）视频前一帧",
         "description": "Keybind label"
     },
     "keybindDescription": {
         "message": "请按下想绑定的按键。如果您想使用组合快捷键，请勾选左侧的选项。"
     },
     "0": {
-        "message": "连接超时。请检查您的网络连接。如果您的网络运行正常，则可能是服务器过载或宕机。"
+        "message": "连接超时。请检查您的网络连接。如果您的网络运行正常，则可能是服务器宕机。"
     },
     "disableSkipping": {
-        "message": "已开启跳过"
+        "message": "已启用跳过"
     },
     "enableSkipping": {
         "message": "已关闭跳过"
     },
     "yourWork": {
-        "message": "您的提交",
+        "message": "您的信息",
         "description": "Used to describe the section that will show you the statistics from your submissions."
     },
     "502": {
@@ -467,15 +461,6 @@
     "customServerAddressDescription": {
         "message": "广告跳过助手的服务器地址。\n不建议更改，除非您有自己的服务器。"
     },
-    "dataFetchingServerAddress": {
-        "message": "数据获取服务器地址"
-    },
-    "dataFetchingServerAddressDescription": {
-        "message": "用于联系数据获取服务器的地址。\n不建议更改，除非您有自己的服务器。"
-    },
-    "thumbnailCacheServerAddress": {
-        "message": "缩略图缓存服务器地址"
-    },
     "save": {
         "message": "保存"
     },
@@ -566,13 +551,13 @@
         "message": "包括衔接转场"
     },
     "generic_guideline2": {
-        "message": "装成没有跳过内容一样播放"
+        "message": "跳过后的视频仍然流畅，就好像跳过的片段不存在一样"
     },
     "category_sponsor": {
         "message": "恰饭广告"
     },
     "category_sponsor_description": {
-        "message": "付费推广、付费推荐和直接广告。不是自我推广或免费提及他们喜欢的事物/创作者/网站/产品。"
+        "message": "付费推广、付费推荐和直接广告。不是自我推广或免费提及他们喜欢的商品/创作者/网站/产品。"
     },
     "category_sponsor_guideline1": {
         "message": "付费推广"
@@ -609,7 +594,7 @@
         "message": "整个视频都在展示免费/受助以获得和访问的事物"
     },
     "category_interaction": {
-        "message": "三连提醒（订阅）"
+        "message": "三连/订阅提醒"
     },
     "category_interaction_description": {
         "message": "视频中间简短提醒观众来一键三连或关注。 如果片段较长，或是有具体内容，则应分类为自我推广。"
@@ -621,7 +606,7 @@
         "message": "包括间接提醒评论和弹幕"
     },
     "category_interaction_guideline3": {
-        "message": ""
+        "message": "不应包含有意义的内容"
     },
     "category_interaction_short": {
         "message": "三连提醒"
@@ -633,10 +618,10 @@
         "message": "没有实际内容的间隔片段。可以是暂停、静态帧或重复动画。不适用于包含内容的过场。"
     },
     "category_intro_short": {
-        "message": "过场"
+        "message": "过场动画或者开场动画"
     },
     "category_intro_guideline1": {
-        "message": "无实际内容的片段"
+        "message": "不包含任何有意义的内容"
     },
     "category_intro_guideline2": {
         "message": "不包括含有内容的转场"
@@ -645,20 +630,20 @@
         "message": "结束画面/结尾致谢"
     },
     "category_outro_description": {
-        "message": "致谢画面或片尾画面。不应用于包含内容的结尾。"
+        "message": "致谢画面或片尾画面。不包含内容的结尾。"
     },
     "category_outro_guideline1": {
-        "message": "不应包含内容，即使致谢或片尾已经出现。"
+        "message": "不应包含有意义的内容，即使致谢或片尾已经出现。"
     },
     "category_preview": {
         "message": "回顾/概要",
         "description": "https://en.wikipedia.org/wiki/Narrative_hook"
     },
     "category_preview_description": {
-        "message": "展示此视频或同系列后续视频将出现的画面集锦，所有内容都将在之后再次出现。"
+        "message": "展示此视频或同系列视频将出现的画面集锦，片段中所有内容都将在之后的正片中再次出现。"
     },
     "category_preview_guideline1": {
-        "message": "视频中稍后会出现或未来视频会出现的片段"
+        "message": "视频中稍后会出现的片段"
     },
     "category_preview_guideline2": {
         "message": "往期视频的回顾总结"
@@ -685,7 +670,7 @@
         "message": "不需要理解主题的片段"
     },
     "category_music_offtopic": {
-        "message": "音乐：非音乐部分"
+        "message": "音乐视频的非音乐部分"
     },
     "category_music_offtopic_description": {
         "message": "仅用于音乐视频。此分类只能用于音乐视频中未包括于其他分类的部分。"
@@ -703,7 +688,7 @@
         "message": "精彩时刻"
     },
     "category_poi_highlight_description": {
-        "message": "大部分人都在寻找的视频片段。类似于“封面在12:34”的评论。"
+        "message": "大部分人都在寻找的空降时间。类似于“封面在12:34”的评论。"
     },
     "category_poi_highlight_guideline1": {
         "message": "大部分人想看的片段"
@@ -733,7 +718,7 @@
         "message": "禁用"
     },
     "autoSkip_POI": {
-        "message": "跳至开始位置"
+        "message": "自动跳至位置"
     },
     "manualSkip_POI": {
         "message": "视频加载时询问"
@@ -741,24 +726,18 @@
     "showOverlay_POI": {
         "message": "在进度条中显示"
     },
-    "showOverlay_full": {
-        "message": "显示标签"
-    },
-    "showOverlay_chapter": {
-        "message": "显示章节"
-    },
     "autoSkipOnMusicVideos": {
         "message": "自动跳过所有音乐视频中的非音乐片段"
     },
     "muteSegments": {
-        "message": "允许静音的片段而不是跳过"
+        "message": "允许片段静音而不是跳过"
     },
     "fullVideoSegments": {
-        "message": "当整个视频都是广告时显示图标",
+        "message": "当整个视频都是某一类别时显示图标",
         "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
-        "message": "在视频缩略图上也显示标签",
+        "message": "在视频封面上显示标签",
         "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
@@ -785,7 +764,7 @@
         "message": "当连接到测试服务器时，所有的提交和投票将不会计入主服务器。当您想要进行真实提交时，请确保禁用了此选项。"
     },
     "bracketNow": {
-        "message": "(现在)"
+        "message": "(设为现在)"
     },
     "moreCategories": {
         "message": "更多类别"
@@ -804,10 +783,10 @@
         "message": "您必须为所有您要提交的片段选择类别！"
     },
     "bracketStart": {
-        "message": "（开始）"
+        "message": "（设为开始）"
     },
     "bracketEnd": {
-        "message": "（结束）"
+        "message": "（设为结束）"
     },
     "End": {
         "message": "结束",
@@ -838,14 +817,11 @@
     "permissionRequestFailed": {
         "message": "权限请求失败，您是否点击拒绝？"
     },
-    "adblockerIssueWhitelist": {
-        "message": "如果您无法解决这个问题，请禁用“跳过前强制进行频道检查”选项，因为 SponsorBlock 无法获得此视频的频道信息"
-    },
     "forceChannelCheck": {
         "message": "跳过前强制进行频道检查"
     },
     "whatForceChannelCheck": {
-        "message": "默认情况下，即使还未检测出当前是什么频道，也会立即跳过片段。即使在白名单中的频道，一些在开头的片段也可能被跳过。启用此选项将防止这种情况，但所有的跳过将会产生轻微的延迟，因为获取频道 ID 需要一点时间。如果您的网速很快，那延迟可能非常短。"
+        "message": "默认情况下，即使还未检测出当前是什么频道，也会立即跳过片段。因此，在白名单中UP的视频，一些在开头的片段也可能被跳过。启用此选项将防止这种情况，但所有的跳过将会产生轻微的延迟，因为获取频道 ID 需要一点时间。如果您的网速很快，那延迟可能非常短。"
     },
     "forceChannelCheckPopup": {
         "message": "请考虑启用“跳过前强制进行频道检查”"
@@ -1202,7 +1178,7 @@
         "message": "SponsorBlock is not compatible with the extension \"Zoom to Fill\". There are many alternatives you can use instead that will work properly."
     },
     "cleanPopup": {
-        "message": "Hide Clutter in Segment List Popup"
+        "message": "简化弹出菜单内容"
     },
     "syncDisabledWarning": {
         "message": "Warning: Extension storage has been disabled in your browser. Settings will not be saved if you try saving them."
