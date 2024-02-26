@@ -1056,8 +1056,8 @@
     "change": {
         "message": "更改"
     },
-    "youtubeKeybindWarning": {
-        "message": "这是 Youtube 内置的快捷方式。您确定要使用吗？"
+    "bilibiliKeybindWarning": {
+        "message": "这是B站内置的快捷方式。您确定要使用吗？"
     },
     "betaServerWarning": {
         "message": "测试服务器已启用！"
@@ -1168,17 +1168,11 @@
         "message": "Warning: This is an incredibly aggressive category. You most likely will have to unskip stuff, or disable it sometimes. Be warned that many videos have over 50% or more of the video skipped! However, remember that there are still specific guidelines to follow when submitting.",
         "description": "Warning that appears when enabling the filler tangent category"
     },
-    "YtNeuterMessage": {
-        "message": "Add a filterlist to block surveys, merch shelves, and other promotional page elements using yt-neuter"
-    },
-    "requiresUblock": {
-        "message": "需要 uBlock Origin"
-    },
     "zoomToFillUnsupported": {
         "message": "SponsorBlock is not compatible with the extension \"Zoom to Fill\". There are many alternatives you can use instead that will work properly."
     },
     "cleanPopup": {
-        "message": "简化弹出菜单内容"
+        "message": "简化弹出窗口内容"
     },
     "syncDisabledWarning": {
         "message": "Warning: Extension storage has been disabled in your browser. Settings will not be saved if you try saving them."
